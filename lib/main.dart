@@ -1,6 +1,6 @@
-import 'package:e_commerce_app/views/Home_Page.dart';
+import 'package:ecommerce/views/Homepage.dart';
+import 'package:ecommerce/views/Homepage.dart';
 import 'package:flutter/material.dart';
-import 'package:my_ex/views/Homepage.dart';
 
 void main() {
   runApp(
