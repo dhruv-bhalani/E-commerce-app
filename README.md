@@ -23,6 +23,10 @@ The E-commerce app is a mobile application designed to facilitate online shoppin
 - **Detail Page:**
     - View detailed information about the selected product.
     - Navigate back to the Home Page using the back button.
+ 
+<img src="https://github.com/dhruv-bhalani/E-commerce-app/assets/156923442/5fbd3843-3726-41c2-b612-6b07bfb5dd53" width="300px">
+<img src="https://github.com/dhruv-bhalani/E-commerce-app/assets/156923442/efc6e9e9-121a-4293-af75-90e95d5b2b5e" width="300px">
+
 
 ## Getting Started
 To get started with the E-commerce app:
