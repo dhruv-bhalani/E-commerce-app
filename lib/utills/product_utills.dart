@@ -10858,3 +10858,8 @@ List<Map<String, dynamic>> allproducts = [
         "https://cdn.dummyjson.com/products/images/womens-watches/Women's%20Wrist%20Watch/thumbnail.png"
   }
 ];
+
+List<String> Allcatagory =
+    allproducts.map((e) => e['category'].toString()).toSet().toList();
+
+List<Map> cartitem = [];
